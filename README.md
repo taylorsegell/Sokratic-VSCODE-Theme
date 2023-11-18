@@ -23,10 +23,10 @@ A VSCode theme that's easy on the eyes with the following key colors:
 
 ## Feedback and Contributions
 
-Your feedback and contributions are welcome! If you have suggestions or encounter issues, please visit the [GitHub repository](https://github.com/yourusername/sokratic-theme).
+Your feedback and contributions are welcome! If you have suggestions or encounter issues, please visit the [GitHub repository](https://github.com/taylorsegell/sokratic-theme).
 
 ## License
 
 Sokratic Theme is open-source and available under the [MIT License](LICENSE.md). Customize and share it as you like.
 
-Happy coding!
+
