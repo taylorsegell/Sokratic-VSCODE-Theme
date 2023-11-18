@@ -3,8 +3,9 @@
   "displayName": "sokratic-theme",
   "description": "color theme de sokratic",
   "icon": "icon.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "sokratic",
+  "keywords": ["theme", "green","teal","relaxing","sokratic", "syntax highlighting", "dark theme", "mellow"],
   "engines": {
     "vscode": "^1.84.0"
   },

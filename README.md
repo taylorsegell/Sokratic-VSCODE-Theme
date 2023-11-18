@@ -1,6 +1,6 @@
 # Sokratic Theme for VSCode
 
-A VSCode theme that's easy on the eyes with the following key colors:
+As a fan of mellow Greens and Blues I figured I would share a little Themere I made. Hope you enjoy it and that it's easy on the eyes
 
 ![Screenshot](https://github.com/taylorsegell/teags-theme/blob/main/screenshot.png?raw=true)
 ## Installation
