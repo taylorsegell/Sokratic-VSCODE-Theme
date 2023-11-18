@@ -2,7 +2,7 @@
 
 A VSCode theme that's easy on the eyes with the following key colors:
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/taylorsegell/teags-theme/blob/main/screenshot.png?raw=true)
 ## Installation
 
 1. Open VSCode.
