@@ -2,6 +2,7 @@
   "name": "sokratic-theme",
   "displayName": "sokratic-theme",
   "description": "color theme de sokratic",
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
