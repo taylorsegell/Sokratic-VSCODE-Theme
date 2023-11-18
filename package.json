@@ -1,0 +1,21 @@
+{
+  "name": "teags-theme",
+  "displayName": "teags-theme",
+  "description": "color theme de teags",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Teags",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Teags-color-theme.json"
+      }
+    ]
+  }
+}
