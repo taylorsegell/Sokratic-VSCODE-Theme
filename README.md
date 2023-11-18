@@ -1,16 +1,32 @@
-# teags-theme README
+# Sokratic Theme for VSCode
 
-## Working with Markdown
+A VSCode theme that's easy on the eyes with the following key colors:
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Screenshot](screenshot.png)
+## Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Open VSCode.
+2. Go to the Extensions view (icon on the left sidebar).
+3. Search for "Sokratic Theme".
+4. Click Install to apply the theme.
 
-## For more information
+## Activation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
+2. Type "Color Theme" and select "Preferences: Color Theme".
+3. Choose "Sokratic" from the list.
 
-**Enjoy!**
+## Features
+
+- Pleasant and eye-friendly color scheme.
+- Easy-to-read code.
+
+## Feedback and Contributions
+
+Your feedback and contributions are welcome! If you have suggestions or encounter issues, please visit the [GitHub repository](https://github.com/yourusername/sokratic-theme).
+
+## License
+
+Sokratic Theme is open-source and available under the [MIT License](LICENSE.md). Customize and share it as you like.
+
+Happy coding!
