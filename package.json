@@ -1,7 +1,7 @@
 {
-  "name": "teags-theme",
-  "displayName": "teags-theme",
-  "description": "color theme de teags",
+  "name": "sokratic-theme",
+  "displayName": "sokratic-theme",
+  "description": "color theme de sokratic",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
@@ -16,10 +16,10 @@
         "uiTheme": "vs-dark",
         "path": "./themes/sokratic-theme.json"
       }
-    ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/taylorsegell/Sokratic-VSCODE-Theme"
-    }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taylorsegell/Sokratic-VSCODE-Theme"
   }
 }
