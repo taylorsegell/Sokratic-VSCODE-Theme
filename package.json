@@ -4,6 +4,7 @@
   "description": "color theme de sokratic",
   "icon": "icon.png",
   "version": "0.0.1",
+  "publisher": "sokratic",
   "engines": {
     "vscode": "^1.84.0"
   },
